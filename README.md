@@ -1,7 +1,7 @@
 # privateDistributedRLS
 Distributed linear regression under privacy constraints
 
-Regression analysis is used to estimate the unknown eect of changing
+Regression analysis is used to estimate the unknown effect of changing
 one variable over another. While running a linear regression, it is assumed
 that there is a linear relationship between regressand and regressor variables
 and this relationship is additive. Various regression algorithms are used for
